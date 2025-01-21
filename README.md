@@ -1,7 +1,7 @@
 # Vendas :Pesquisa de Mercado
 
+![image](https://github.com/user-attachments/assets/dd216f2d-ae99-46f7-95da-6773d36b5d2d)
 
-![Uploading image.png…]()
 
 
 Pesquisa de Mercado
